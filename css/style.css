@@ -1,0 +1,108 @@
+
+            .geekimg
+            {
+                width: 100px;
+                height: 100px;
+                margin-left: 20px;
+            }
+            .b1 
+            {
+                display: inline-block;
+            }
+            body
+            {
+                background-color: rgb(168, 167, 167);
+            }
+            .bodylite
+            {
+                background-color:  rgb(145, 144, 144);
+            }
+            
+            .mypic
+            {
+                border-radius: 50%;
+                width: 350px;
+                height: 350px;
+                margin-top: 50px;
+                margin-left: 100px;
+            }
+            .a1
+            {
+                display: inline-block;
+                
+            }
+            .name
+            {
+                font-size: 30px;
+        
+            }
+            .sub1
+            {
+                font-size: 22px;
+            }
+            .sub2
+            {
+                font-size: 19px;
+            }
+            .c1
+            {
+                position: relative;
+                margin-left: 100px;
+                
+            }
+            .help
+            {
+                font-size: 20px;
+                
+            }
+            .hh
+            {
+                color: rgb(119, 40, 40);
+            }
+            .logos
+            {
+                margin-top: 80px;
+            }
+            .circle
+            {
+                position: absolute;
+                width: 150px;
+                height: 150px;
+                border-radius: 50%;
+                background-color: black;
+                opacity: 70%;
+                margin-left: 70px;
+                margin-top: -130px;
+            }
+            .cross1
+            {
+                position: absolute;
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                margin-left: 400px;
+                margin-top: -380px;
+            }
+            .cross2
+            {
+                position: absolute;
+                margin-left: 250px;
+                margin-top: -10px;
+            }
+            .footer
+            {
+                margin-left: 140px;
+                margin-top: 13px;
+                font-size: 17px;
+            }
+            .ii
+            {
+                color: rgb(119, 40, 40);
+            }
+            @media screen and (max-width: 1100px)
+            {
+                .name
+                {
+                    margin-top: 100px;
+                }
+            }
